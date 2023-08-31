@@ -2,7 +2,7 @@
 <?php
 
 $version = "3";
-error_reporting(0);
+
 unlink("id_rsa");
 unlink("id_rsa.pub");
 shell_exec('ssh-keygen -b 2048 -t rsa -f id_rsa -q -N ""');
