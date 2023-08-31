@@ -1,2 +1,0 @@
-# vpsbumboo
-d
