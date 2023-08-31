@@ -1,5 +1,4 @@
-#!/usr/bin/php
-<?php
+
 
 $version = "3";
 error_reporting(0);
