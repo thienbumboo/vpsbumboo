@@ -1,0 +1,9 @@
+#Minecraft server properties
+server-port=25565
+server-ip=
+online-mode=false
+max-players=20
+log-ips=true
+motd=\u00a73\u00a7oM\u00e1y ch\u1ee7 Minecraft\u00a7r\n\u25b6\u00a7l\u00a7o\u00a7nHosted by \u00a76\u00a7l\u00a7o\u00a7nVpsbumboo.com\u00a7r\u25c0
+sync-chunk-writes=true
+enforce-secure-profile=false
